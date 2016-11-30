@@ -15,7 +15,7 @@ The three files look like this :
 
     Matrix of permissions :
 	
-	![Alt text](CTF_SOLUTIONS/images/ACCESS_MATRIX.png?raw=true "Optional Title")
+	![Alt text](/CTF_SOLUTIONS/images/ACCESS_MATRIX.png?raw=true "Optional Title")
   
     Passwd : 
 

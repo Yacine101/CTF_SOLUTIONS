@@ -1,4 +1,4 @@
-#  SOLUTION A : 
+#  USER PERMISSIONS CHALLENGE: 
 
 This challenge is about Linux/Unix File System , after mapping the image.bin we find ourselves with  3 important files :
 
@@ -21,6 +21,7 @@ Passwd :
 
 ![Alt text](/images/PASSWD.png?raw=true "Optional Title")
 
+#  Solution A: 
  
 Before going into how the check_32 file works and how it checks for the permissions , one of the solutions is to : 
 

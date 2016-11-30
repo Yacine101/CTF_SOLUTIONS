@@ -1,4 +1,4 @@
-SOLUTION A : 
+#  SOLUTION A : 
 
 This challenge is about Linux/Unix File System , after mapping the image.bin we find ourselves with  3 important files :
 
@@ -36,7 +36,7 @@ We need to confirm this first :
   
 After checking for the outputs and the functions used , it seems that the group solution should've worked , without further sticking to the 1st solution we'll go for the second ! using GDB !
 
-SOLUTION B :
+# SOLUTION B :
 
 The solution B goes like this : 
 

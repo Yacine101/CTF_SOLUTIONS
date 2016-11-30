@@ -9,12 +9,18 @@ This challenge is about Linux/Unix File System , after mapping the image.bin we 
 The three files look like this :
 
     Execution of check_32 as root :
+	
+	![Alt text](/images/EXECUTION_ROOT.png?raw=true "Optional Title")
 
 
     Matrix of permissions :
-
+	
+	![Alt text](/images/ACCESS_MATRIX.png?raw=true "Optional Title")
   
     Passwd : 
+
+	![Alt text](/images/PASSWD.png?raw=true "Optional Title")
+
  
 Before going into how the check_32 file works and how it checks for the permissions , one of the solutions is to : 
 

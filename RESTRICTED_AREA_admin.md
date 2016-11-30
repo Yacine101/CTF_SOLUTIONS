@@ -40,7 +40,7 @@ SOLUTION B :
 
 The solution B goes like this : 
 
-We open GDB , set a breakpoint on the setfsuid32 function (that changes the userID before checking for permissions) and change files ownership before each check and each change of UID . 
+We open GDB , set a breakpoint on the setfsuid32 function (that changes the userID before checking for permissions) and change files ownership , in other words :  breaking before checks to change files ownerships . 
 Before this all files must have read access for their owner so we do a : "chmod 400 * "
       
 1- We open the check_32 ELF file with gdb and list the functions of the program :

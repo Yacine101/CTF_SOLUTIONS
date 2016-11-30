@@ -61,6 +61,13 @@ Before this all files must have read access for their owner so we do a : "chmod 
 
 ![Alt text](/images/CHECK1.png?raw=true "Optional Title")
 
+5- Repeat for userID:1005 and 1006 and 1007 .
+
+![Alt text](/images/FINALCHOWN.png?raw=true "Optional Title")
+
+6- Finally we get our flag !!
+![Alt text](/images/OUR_FLAG.png?raw=true "Optional Title")
+
 
 	
 

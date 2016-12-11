@@ -15,7 +15,7 @@ First thing we do is see the Process List with Volatility :
 One of the svcHOST.exe processes is a Fake , we have to execute more commands to be able to make a guess .
 We see the Arguments of each process :
 
-![Alt text](/images/PSLIST.png?raw=true "Optional Title")
+![Alt text](/images/DISPLAY_ARGS.png?raw=true "Optional Title")
 
 
 All the "svcHOST.exe"s are followed by an argument , only the one with PID 1776 is not :
